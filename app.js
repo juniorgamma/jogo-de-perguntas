@@ -1,7 +1,7 @@
 // PARTE 1: Lista de perguntas e respostas
 perguntas = [
     {
-      "pergunta": "Qual é o principal pokémon do Ash?",
+      "pergunta": "Qual é o principal POKE do Ash?",
       "respostas": [
         { "opcao": "Pikachu", "correto": true },
         { "opcao": "Bubasauro", "correto": false },
